@@ -1,0 +1,1 @@
+Jumping square rescales with size
